@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>arrow-left-3099-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #a0440e } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M186.12 254.04C188.63 254.04 191.14 253.08 193.05 251.17C196.88 247.34 196.88 241.13 193.05 237.3L83.75 128L193.05 18.7C196.88 14.87 196.88 8.66 193.05 4.83C189.22 1.01 183.01 1.01 179.18 4.83L62.95 121.07C59.12 124.89 59.12 131.1 62.95 134.93L179.18 251.16C181.1 253.08 183.61 254.04 186.12 254.04Z" />
+		</g>
+	</g>
+</svg>
